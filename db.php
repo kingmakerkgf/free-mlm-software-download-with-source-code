@@ -87,8 +87,8 @@ $pair_income_tbl = "pair_income";
 $current_date = strtotime(date("d-m-Y H:i:s")) + 11*24*3600;
 date_default_timezone_set("Asia/Kolkata");
 
-$web_name = "TLPneurship";
-$support_email = "platinumr1itservices@gmail.com";
+$web_name = "Jamsrmlm";
+$support_email = "jamsrworld@gmail.com";
 $web_prefix = "TLP";
 $web_real_primary_color = "0,158,246";
 
